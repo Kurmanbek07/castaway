@@ -160,19 +160,18 @@
 }
 
 @media (max-width: 376px) {
-
 }
 @media (max-width: 320px) {
-    .hero-title p{
-        font-size: 10px;
-    }
-    .work-dsl-title p{
-        font-size: 10px;
-    }
-    .work-dsl-title p span{
-        font-size: 10px;
-    }
-    .work-dsl-title p{
-        font-size: 10px;
-    }
+  .hero-title p {
+    font-size: 10px;
+  }
+  .work-dsl-title p {
+    font-size: 10px;
+  }
+  .work-dsl-title p span {
+    font-size: 10px;
+  }
+  .work-dsl-title p {
+    font-size: 10px;
+  }
 }
