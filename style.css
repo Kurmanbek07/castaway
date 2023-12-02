@@ -218,8 +218,9 @@ h1 {
   background: #ee4248;
 }
 .footer-end {
-  width: 1140px;
-  height: 54px;
+  padding: 15px ;
+  /* width: 1140px;
+  height: 54px; */
   display: flex;
   justify-content: center;
   align-items: center;
